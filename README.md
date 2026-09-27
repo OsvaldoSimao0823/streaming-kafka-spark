@@ -71,3 +71,7 @@ O dashboard abre automaticamente no browser (`http://localhost:8501`).
 - Migrar a persistência para um data warehouse na cloud (BigQuery, ou equivalente)
 - Adicionar deteção de variações bruscas de preço (alertas)
 - Testes automatizados para a lógica de agregação
+
+  Este é o 2º de 3 projetos de um portfólio de Data/AI Engineering:
+- [Projeto 1 — Pipeline Batch (Airflow, dbt, ML)](https://github.com/OsvaldoSimao0823/crypto-data-pipeline)
+- [Projeto 3 — genai-crypto-qa](https://github.com/OsvaldoSimao0823/genai-crypto-qa)
